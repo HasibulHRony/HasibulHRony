@@ -2,7 +2,6 @@
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibulhrony&label=Profile%20views&color=0e75b6&style=flat" alt="hasibulhrony" /> </p>
-![](https://web.facebook.com/photo/?fbid=122095328558918771&set=a.122095328690918771)
 
 - 🔭 I’m currently working on **Book Courier Service Project**
 
